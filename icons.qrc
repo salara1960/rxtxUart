@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/main.png</file>
+	<file>png/connect.png</file>
+	<file>png/help.png</file>
+	<file>png/info.png</file>
+	<file>png/settings.png</file>
+	<file>png/salara.png</file>
+	<file>png/close.png</file>
+	<file>png/conn.png</file>
+	<file>png/dis.png</file>
+	<file>png/show.png</file>
+	<file>png/hide.png</file>
+	<file>png/clear.png</file>
+	<file>png/button.png</file>
+	<file>png/eyeShow.png</file>
+	<file>png/eyeHide.png</file>
+	<file>png/folder.png</file>
+	<file>png/prog.png</file>
+	<file>png/down.png</file>
+	<file>png/up.png</file>
+	<file>png/comp.png</file>
+	<file>png/flash.png</file>
+	<file>png/hash.png</file>
+	<file>png/error.png</file>
+	<file>png/niichavo.png</file>
+    </qresource>
+</RCC>
